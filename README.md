@@ -1,5 +1,5 @@
 # How Did I Got That ABI
-You can get the compiled bytecode from `bscscan.com` and decompile it with tools like `ethervm.io`. After that It's a kinda a guess work.
+You can get the compiled bytecode from `bscscan.com` and decompile it with tools like `ethervm.io`. After that It's a kinda a guess work. Also this ABI does not support every function in the presale contract. Feel free to contirbute.
 
 # How Can I Get The Dev. Wallet Address of The Token ?
 Don't let the name `owner()` fool you, that's the address of the contract that created that presale contract.
