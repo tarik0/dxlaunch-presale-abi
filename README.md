@@ -1,7 +1,7 @@
 # How Did I Got That ABI
 ~~You can get the compiled bytecode from `bscscan.com` and decompile it with tools like `ethervm.io`. After that It's a kinda a guess work. Also this ABI does not support every function in the presale contract. Feel free to contirbute.~~
 
-At first I was decompiling the contract but after I've inspect the DxSale website, I have extracted the ABI's that DxSale contracts use.
+At first I was decompiling the contract but after I've inspected the DxSale website, I have extracted the ABI's that DxSale contracts use.
 
 # How Can I Get The Dev. Wallet Address of The Token ?
 Don't let the name `owner()` fool you, that's the address of the contract that created that presale contract.
