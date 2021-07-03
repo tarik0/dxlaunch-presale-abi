@@ -21,3 +21,9 @@ const PRESALE_ABI  = require(path.join(__dirname, "abis", "PresaleABI"));
  * let presaleContract = new ethers.Contract(ethers.utils.getAddress("0x..."), PRESALE_ABI, ACCOUNT);
  */
 ```
+
+# Donations
+
+You can donate me from those addresses <3
+
+`BSC - 0x9D3b16055aCcC713612a18aaBEFff9Db8163F9f5`
